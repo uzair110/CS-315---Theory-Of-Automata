@@ -1,0 +1,10 @@
+LIST a = [1,2,3,4,5,6]
+LIST b = []
+PRINT(b)
+PRINT("a.slice(0, 2)")
+b.push("Get Ready!")
+b.push("Done!")
+PRINT("b.index(1)")
+STRING c = "Well " + b.pop(1)
+PRINT(c)
+PRINT("a.7]")

@@ -1,0 +1,4 @@
+BOOL isRaining = FALSE
+BOOL isSnowing = TRUE
+INT temp = 0
+IF (isRaining == TRUE) { PRINT("Wear down Jacket") }
